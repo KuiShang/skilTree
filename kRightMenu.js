@@ -9,6 +9,7 @@
     let currentOperateObj = {};
     /**
      * 操作规则
+     *
      * @type {{isSending: isSending, isMe: isMe, isSendSucess: isSendSucess, isDownloaded: isDownloaded, isUse: isUse}}
      */
     const OperateRules = {
